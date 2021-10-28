@@ -14,6 +14,6 @@ include '../Model/autoload.php';
     $texty = new Sql();
     $texty->getResultsStmt();
     ?>
-    <a href="../Controller/add.php">Add stuff</a>
+    <a href="add.php">Add stuff</a>
 </body>
 </html>
